@@ -1,4 +1,4 @@
-**SMARTDRIVE_YOLOv8**
+### **SMARTDRIVE_YOLOv8**
 
 ### Description
 SMARTDRIVE_YOLOv8 is an advanced AI-driven system designed to enhance road safety by dynamically adjusting vehicle speed based on real-time detection of critical road conditions. Utilizing YOLOv8 object detection, this model identifies specific classes such as Bumpy Roads, Construction Work, Hospital Zones, Obstacles(like Blocked roads, Fallen trees, Potholes, Car, Bike,...), Pedestrians, School Zones, and Stop signs. 
