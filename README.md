@@ -25,7 +25,7 @@ pip (Python package installer)
 #### Clone the Repository
 
 ```bash
-  git clone https://github.com/SuryaKS27/AIPROJECT.git
+  git clone https://github.com/SuryaKS27/SMARTDRIVE_YOLOv8.git
 ```
 ####  Install Required Dependencies
 
